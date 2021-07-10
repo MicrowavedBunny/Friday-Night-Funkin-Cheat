@@ -1,4 +1,4 @@
-
+#This was created using Python 3.9 but can cause issue with the dependicies supposedly using Python 3.7 will mitigate this 
 #You have to play in full screen on 1080p display or get you own values retard
 #Same goes for keybinds
 #You are a big boy figure it out

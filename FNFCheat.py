@@ -1,7 +1,6 @@
 #This was created using Python 3.9 but can cause issue with the dependicies supposedly using Python 3.7 will mitigate this 
-#You have to play in full screen on 1080p display or get you own values retard
+#You have to play in full screen on 1080p display or get you own values
 #Same goes for keybinds
-#You are a big boy figure it out
 #x: 1108 y: 958 (181, 213, 218) = left arrow - keybind is Z
 #x: 1266 y: 956 (194, 226, 229) = down arrow - keybind is X
 #x: 1425 y: 956 (168, 200, 208) = up arrow - keybind is .
